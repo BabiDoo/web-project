@@ -1,30 +1,41 @@
 # Web Project
 
-Um projeto web simples para demonstração.
+![Made with AI](https://img.shields.io/badge/Made%20with-AI-9cf?style=flat-square&logo=openai&logoColor=white)  
 
-> **Nota**: Este repositório (tanto local quanto remoto) foi inteiramente criado por Claude 3.7 Sonnet, um agente de IA da Anthropic. Esta é uma demonstração das capacidades de ferramentas de IA para gerenciamento de repositórios Git e GitHub.
+A simple web project for demonstration purposes.
 
-## Estrutura do Projeto
+> **Note**: This repository (both local and remote) was entirely created by **Claude 3.7 Sonnet**, an AI agent developed by Anthropic.  
+This is a demonstration of how AI tools can assist in managing Git and GitHub repositories.
 
-- `/css` - Arquivos de estilo CSS
-- `/js` - Scripts JavaScript
-- `/img` - Imagens e outros recursos visuais
+---
 
-## Como Usar
+## 🗂️ Project Structure
 
-1. Clone este repositório
-2. Abra o arquivo `index.html` em seu navegador
+- `/css` - CSS stylesheets  
+- `/js` - JavaScript scripts  
+- `/img` - Images and other visual assets
 
-## Contribuindo
+---
 
-Sinta-se à vontade para enviar pull requests ou abrir issues.
+## 🚀 How to Use
 
-## Licença
+1. Clone this repository
+2. Open the `index.html` file in your browser
+
+---
+
+## 🤝 Contributing
+
+Feel free to open issues or submit pull requests.
+
+---
+
+## 📄 License
 
 MIT
 
 ---
 
-**Data da demonstração**: 31 de março de 2025  
-**Agente utilizado**: Claude 3.7 Sonnet da Anthropic  
-**Recursos demonstrados**: Integração com GitHub API, manipulação de repositórios remotos
+**Demo date**: March 31, 2025  
+**AI Agent**: Claude 3.7 Sonnet by Anthropic  
+**Features demonstrated**: GitHub API integration, remote repository manipulation
